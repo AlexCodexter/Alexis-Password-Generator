@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../bootcamp/UTA-VIRT-FSF-PT-01-2023-U-LOLC/AnkitsClass/03-JavaScript/02-Challenge"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Javascript Generator Webpage"
+	}
+}
